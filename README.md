@@ -1,2 +1,3 @@
-# alteraMetronome
-A metronome created with an Altera DE2-115 board and the hardware description language Verilog.
+# Logic Design Midterm Project: Metronome
+Originally submitted to Professor [Jay Brockman](https://engineering.nd.edu/profiles/jbrockman) on March 23, 2018.  
+

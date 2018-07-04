@@ -1,0 +1,27 @@
+|LCD_message
+SW[0] => Equal0.IN63
+SW[0] => Equal1.IN63
+SW[1] => Equal0.IN62
+SW[1] => Equal1.IN62
+raddr[0] => Decoder1.IN3
+raddr[0] => Decoder2.IN4
+raddr[1] => Decoder1.IN2
+raddr[1] => Decoder2.IN3
+raddr[2] => Decoder0.IN2
+raddr[2] => Decoder1.IN1
+raddr[2] => Decoder2.IN2
+raddr[3] => Decoder0.IN1
+raddr[3] => Decoder1.IN0
+raddr[3] => Decoder2.IN1
+raddr[4] => Decoder0.IN0
+raddr[4] => Decoder2.IN0
+dout[0] << Selector5.DB_MAX_OUTPUT_PORT_TYPE
+dout[1] << Selector4.DB_MAX_OUTPUT_PORT_TYPE
+dout[2] << Selector3.DB_MAX_OUTPUT_PORT_TYPE
+dout[3] << Selector2.DB_MAX_OUTPUT_PORT_TYPE
+dout[4] << Selector1.DB_MAX_OUTPUT_PORT_TYPE
+dout[5] << Decoder1.DB_MAX_OUTPUT_PORT_TYPE
+dout[6] << Selector0.DB_MAX_OUTPUT_PORT_TYPE
+dout[7] << <GND>
+
+

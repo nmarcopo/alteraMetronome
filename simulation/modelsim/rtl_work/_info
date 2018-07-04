@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dN:/Veralog/Midterm Project/simulation/modelsim
+vLCD_Display
+Z1 !s110 1521993449
+!i10b 1
+!s100 mkcfX[ZMChFb]kHBb4bhE1
+IMSzM6PAOfGQ>F<z6fXdbc2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1506868055
+8N:/Veralog/Midterm Project/LCD_Display.v
+FN:/Veralog/Midterm Project/LCD_Display.v
+L0 40
+Z4 OV;L;10.4d;61
+r1
+!s85 0
+31
+!s108 1521993449.000000
+!s107 N:/Veralog/Midterm Project/LCD_Display.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+N:/Veralog/Midterm Project|N:/Veralog/Midterm Project/LCD_Display.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work {+incdir+N:/Veralog/Midterm Project}
+n@l@c@d_@display
+vLCD_message
+!s110 1521993448
+!i10b 1
+!s100 6?@9g>e5O<96@FXRKQcF91
+I<l5PX^WjA9JLa5O1@jzgo1
+R2
+R0
+w1521948067
+8N:/Veralog/Midterm Project/LCD_message.v
+FN:/Veralog/Midterm Project/LCD_message.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z7 !s108 1521993448.000000
+!s107 N:/Veralog/Midterm Project/LCD_message.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+N:/Veralog/Midterm Project|N:/Veralog/Midterm Project/LCD_message.v|
+!i113 1
+R5
+R6
+n@l@c@d_message
+vReset_Delay
+R1
+!i10b 1
+!s100 dHN_gLf;L2j9`fZ8VE5hX1
+I<ZiUizbW[1IOMG`hW2T8o0
+R2
+R0
+R3
+8N:/Veralog/Midterm Project/reset_delay.v
+FN:/Veralog/Midterm Project/reset_delay.v
+L0 1
+R4
+r1
+!s85 0
+31
+R7
+!s107 N:/Veralog/Midterm Project/reset_delay.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+N:/Veralog/Midterm Project|N:/Veralog/Midterm Project/reset_delay.v|
+!i113 1
+R5
+R6
+n@reset_@delay

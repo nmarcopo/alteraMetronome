@@ -1,0 +1,269 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_50'
+Slack : -82.023
+TNS   : -1299.198
+
+Type  : Slow 1200mV 85C Model Setup 'avconf:avc|LUT_INDEX[1]'
+Slack : -3.878
+TNS   : -54.503
+
+Type  : Slow 1200mV 85C Model Setup 'avconf:avc|mI2C_CTRL_CLK'
+Slack : -3.092
+TNS   : -129.244
+
+Type  : Slow 1200mV 85C Model Setup 'LCD_Display:u1|CLK_400HZ'
+Slack : -2.978
+TNS   : -46.403
+
+Type  : Slow 1200mV 85C Model Setup 'system:s|debouncer:d|out'
+Slack : -2.441
+TNS   : -18.468
+
+Type  : Slow 1200mV 85C Model Hold 'avconf:avc|LUT_INDEX[1]'
+Slack : 0.190
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'avconf:avc|mI2C_CTRL_CLK'
+Slack : 0.256
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_50'
+Slack : 0.360
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'LCD_Display:u1|CLK_400HZ'
+Slack : 0.402
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'system:s|debouncer:d|out'
+Slack : 1.141
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'avconf:avc|mI2C_CTRL_CLK'
+Slack : -1.745
+TNS   : -15.452
+
+Type  : Slow 1200mV 85C Model Recovery 'LCD_Display:u1|CLK_400HZ'
+Slack : -0.600
+TNS   : -7.416
+
+Type  : Slow 1200mV 85C Model Recovery 'CLOCK_50'
+Slack : 17.435
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'avconf:avc|mI2C_CTRL_CLK'
+Slack : 0.466
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'LCD_Display:u1|CLK_400HZ'
+Slack : 0.935
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'CLOCK_50'
+Slack : 1.773
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'avconf:avc|mI2C_CTRL_CLK'
+Slack : -1.285
+TNS   : -74.530
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'LCD_Display:u1|CLK_400HZ'
+Slack : -1.285
+TNS   : -48.830
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'system:s|debouncer:d|out'
+Slack : -1.285
+TNS   : -10.280
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'system:s|debouncer:d|count[19]'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'avconf:avc|LUT_INDEX[1]'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.555
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -73.929
+TNS   : -1168.943
+
+Type  : Slow 1200mV 0C Model Setup 'avconf:avc|LUT_INDEX[1]'
+Slack : -3.541
+TNS   : -49.612
+
+Type  : Slow 1200mV 0C Model Setup 'avconf:avc|mI2C_CTRL_CLK'
+Slack : -2.740
+TNS   : -114.484
+
+Type  : Slow 1200mV 0C Model Setup 'LCD_Display:u1|CLK_400HZ'
+Slack : -2.641
+TNS   : -39.065
+
+Type  : Slow 1200mV 0C Model Setup 'system:s|debouncer:d|out'
+Slack : -2.152
+TNS   : -16.230
+
+Type  : Slow 1200mV 0C Model Hold 'avconf:avc|LUT_INDEX[1]'
+Slack : 0.173
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'avconf:avc|mI2C_CTRL_CLK'
+Slack : 0.225
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'LCD_Display:u1|CLK_400HZ'
+Slack : 0.354
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.356
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'system:s|debouncer:d|out'
+Slack : 1.037
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'avconf:avc|mI2C_CTRL_CLK'
+Slack : -1.443
+TNS   : -12.302
+
+Type  : Slow 1200mV 0C Model Recovery 'LCD_Display:u1|CLK_400HZ'
+Slack : -0.457
+TNS   : -5.593
+
+Type  : Slow 1200mV 0C Model Recovery 'CLOCK_50'
+Slack : 17.628
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'avconf:avc|mI2C_CTRL_CLK'
+Slack : 0.443
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'LCD_Display:u1|CLK_400HZ'
+Slack : 0.884
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'CLOCK_50'
+Slack : 1.595
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'avconf:avc|mI2C_CTRL_CLK'
+Slack : -1.285
+TNS   : -74.530
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'LCD_Display:u1|CLK_400HZ'
+Slack : -1.285
+TNS   : -48.830
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'system:s|debouncer:d|out'
+Slack : -1.285
+TNS   : -10.280
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'system:s|debouncer:d|count[19]'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'avconf:avc|LUT_INDEX[1]'
+Slack : 0.419
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.561
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -39.156
+TNS   : -610.906
+
+Type  : Fast 1200mV 0C Model Setup 'avconf:avc|LUT_INDEX[1]'
+Slack : -1.394
+TNS   : -18.358
+
+Type  : Fast 1200mV 0C Model Setup 'avconf:avc|mI2C_CTRL_CLK'
+Slack : -1.158
+TNS   : -34.615
+
+Type  : Fast 1200mV 0C Model Setup 'LCD_Display:u1|CLK_400HZ'
+Slack : -0.917
+TNS   : -7.665
+
+Type  : Fast 1200mV 0C Model Setup 'system:s|debouncer:d|out'
+Slack : -0.680
+TNS   : -5.112
+
+Type  : Fast 1200mV 0C Model Hold 'avconf:avc|LUT_INDEX[1]'
+Slack : 0.006
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'avconf:avc|mI2C_CTRL_CLK'
+Slack : 0.095
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.151
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'LCD_Display:u1|CLK_400HZ'
+Slack : 0.181
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'system:s|debouncer:d|out'
+Slack : 0.518
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'avconf:avc|mI2C_CTRL_CLK'
+Slack : -0.470
+TNS   : -1.964
+
+Type  : Fast 1200mV 0C Model Recovery 'LCD_Display:u1|CLK_400HZ'
+Slack : 0.252
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'CLOCK_50'
+Slack : 18.654
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'avconf:avc|mI2C_CTRL_CLK'
+Slack : 0.146
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'LCD_Display:u1|CLK_400HZ'
+Slack : 0.337
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'CLOCK_50'
+Slack : 0.840
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'avconf:avc|mI2C_CTRL_CLK'
+Slack : -1.000
+TNS   : -58.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'LCD_Display:u1|CLK_400HZ'
+Slack : -1.000
+TNS   : -38.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'system:s|debouncer:d|out'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'system:s|debouncer:d|count[19]'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'avconf:avc|LUT_INDEX[1]'
+Slack : 0.426
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.202
+TNS   : 0.000
+
+------------------------------------------------------------
